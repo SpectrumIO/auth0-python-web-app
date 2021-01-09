@@ -1,5 +1,6 @@
-""" Constants file for Auth0's seed project
-"""
+""" Constants file for Auth0's seed project"""
+from os import environ as env
+
 AUTH0_CLIENT_ID = 'AUTH0_CLIENT_ID'
 AUTH0_CLIENT_SECRET = 'AUTH0_CLIENT_SECRET'
 AUTH0_CALLBACK_URL = 'AUTH0_CALLBACK_URL'

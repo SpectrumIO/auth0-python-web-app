@@ -1,3 +1,5 @@
+### Follows this: https://auth0.com/docs/quickstart/webapp/python
+
 """Python Flask WebApp Auth0 integration example
 """
 from functools import wraps

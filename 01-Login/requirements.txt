@@ -1,3 +1,4 @@
+### XXX use Pipfile instead please
 flask
 python-dotenv
 requests
